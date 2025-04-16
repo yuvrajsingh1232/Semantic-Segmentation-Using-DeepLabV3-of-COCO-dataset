@@ -1,0 +1,19 @@
+torch==2.6.0
+torchmetrics==1.7.1
+torchvision==0.21.0
+pytorch-lightning==2.5.1
+
+segmentation-models-pytorch>=1.3.0
+segmentation_models_pytorch @ git+https://github.com/qubvel/segmentation_models.pytorch@627fbdb1724599df75669f455f16bee6c2668553
+
+albumentations==2.0.5 
+wandb==0.19.9
+
+opencv-python-headless==4.11.0.86
+numpy==2.0.2
+tqdm==4.67.1
+
+pycocotools==2.0.8
+
+matplotlib==3.9.4
+pillow==11.2.1
